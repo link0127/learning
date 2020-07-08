@@ -1,8 +1,3 @@
-
-print(__name__)
-
-""""""
-
 dict_en = {'igen': 'yes',
            'nem': 'no',
            'van': 'is'
